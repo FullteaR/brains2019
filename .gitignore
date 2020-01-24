@@ -1,0 +1,9 @@
+/models
+/data
+/\.ipynb_checkpoints
+
+/result/*.h5
+/result/train
+/result/validation
+
+.DS_Store
